@@ -4,3 +4,5 @@ save code 1
 run test case
 
 submit project
+
+auto save
